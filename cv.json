@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Cristian David Nievas Lozano",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "label": "Entusiasta del Desenvolupament Web i la Programació & Estudiant de DAW amb formació a SMX",
     "image": "/me.webp",
     "email": "cnievaslozano@gmail.com",
     "phone": "+34 675783436",
     "url": "https://cnievaslozano.netlify.app/",
-    "summary": "Actualmente formándome en desarrollo Web. Soy un gran apasionado de la tecnología, mi curiosidad me hace",
+    "summary": "Actualment formant-me en desenvolupament web. Sóc un gran apassionat de la tecnologia, la meva curiositat em fa estar sempre en constant aprenentatge i cerca de nous desafiaments. La meva capacitat per absorbir coneixement i la meva iniciativa per enfrontar nous projectes m'han portat a explorar diferents àrees dins del món de la informàtica, des del suport tècnic fins al desenvolupament web",
     "location": {
       "address": "",
       "postalCode": "43205",
@@ -18,7 +18,7 @@
       {
         "network": "LinkedIn",
         "username": "cnievaslozano",
-        "url": "https://www.linkedin.com/in/cristian-david-nievas-lozano-06117527b/"
+        "url": "https://www.linkedin.com/in/cnievaslozano/"
       },
       {
         "network": "GitHub",
@@ -30,22 +30,22 @@
   "work": [
     {
       "name": "Granota.net",
-      "position": "Desarrollador Web en Prácticas",
+      "position": "Desenvolupador Web en Pràctiques",
       "url": "https://granota.net",
       "startDate": "2023-01-01",
       "endDate": null,
-      "summary": "Desarrollando un proyecto de gestión de clientes para la empresa. ",
+      "summary": "Durant el meu temps a Granota he estat involucrat en el desenvolupament d'un projecte de gestió de clients, on he aplicat bones pràctiques i tècniques d'organització. El meu enfocament se centra a proporcionar una experiència agradable i intuïtiva per a lusuari final",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Dynamic.cat Pontsoft",
-      "position": "Técnico informático en Prácticas",
+      "position": "Tècnic informàtic en Pràctiques",
       "url": "https://www.pontsoft.cat/",
       "startDate": "2020-04-01",
       "endDate": "2020-07-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "summary": "Vaig millorar la meva capacitat per treballar el meu enfocament proactiu per identificar i solucionar problemes de maquinari i programari, configurant estacions de treball i garantint la seguretat. També m´ha permès construir atendre clients i garantir una experiència positiva",
       "highlights": [
         "Started the company"
       ]
@@ -53,18 +53,18 @@
   ],
   "language": [
     {
-      "name": "Español",
-      "level": "Nativo",
+      "name": "Espanyol",
+      "level": "Nadiu",
       "certificate": ""
     },
     {
-      "name": "Catalán",
-      "level": "Avanzado",
+      "name": "Català",
+      "level": "Avançat",
       "certificate": ""
     },
     {
-      "name": "Inglés",
-      "level": "Intermedio",
+      "name": "Anglès",
+      "level": "Intermig",
       "certificate": ""
     }
   ],
@@ -83,9 +83,9 @@
   ],
   "education": [
     {
-      "institution": "Instituto Baix Camp",
+      "institution": "Institut Baix Camp",
       "url": "https://www.insbaixcamp.org/",
-      "area": "Ciclo Formativo de Grado Superior DAW",
+      "area": "Cicle Formatiu de Grau Superior DAW",
       "studyType": "Bachelor",
       "startDate": "2022-01-01",
       "endDate": null,
@@ -95,9 +95,9 @@
       ]
     },
     {
-      "institution": "Instituto Baix Camp",
+      "institution": "Institut Baix Camp",
       "url": "https://www.insbaixcamp.org/",
-      "area": "Ciclo Formativo de Grado Medio SMX",
+      "area": "Cicle Formatiu de Grau Mitjà SMX",
       "studyType": "Bachelor",
       "startDate": "2020-01-01",
       "endDate": "2022-01-01",
@@ -109,7 +109,7 @@
     {
       "institution": "Instituto Roseta Mauri",
       "url": "http://www.insrosetamauri.org",
-      "area": "Educación Superio Obligatorio",
+      "area": "Educación Superior Obligatorio",
       "studyType": "Bachelor",
       "startDate": "2020-01-01",
       "endDate": "2022-01-01",
@@ -245,6 +245,16 @@
         "Colaboración",
         "Código Fuente",
         "Git"
+      ]
+    },
+    {
+      "name": "Linux",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     }
   ],

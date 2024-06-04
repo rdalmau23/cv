@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Cristian David Nievas Lozano",
-    "label": "Entusiasta del Desenvolupament Web i la Programació & Estudiant de DAW amb formació a SMX",
+    "label": "Entusiasta del Desarrollo Web y la Programación & Estudiante de DAW con formación en SMX",
     "image": "/me.webp",
     "email": "cnievaslozano@gmail.com",
     "phone": "+34 675783436",
     "url": "https://cnievaslozano.netlify.app/",
-    "summary": "Actualment formant-me en desenvolupament web. Sóc un gran apassionat de la tecnologia, la meva curiositat em fa estar sempre en constant aprenentatge i cerca de nous desafiaments. La meva capacitat per absorbir coneixement i la meva iniciativa per enfrontar nous projectes m'han portat a explorar diferents àrees dins del món de la informàtica, des del suport tècnic fins al desenvolupament web",
+    "summary": "Actualmente formándome en desarrollo Web. Soy un gran apasionado de la tecnología, mi curiosidad me hace estar siempre en constante aprendizaje y búsqueda de nuevos desafíos. Mi capacidad para absorber conocimiento y mi iniciativa para enfrentar nuevos proyectos me han llevado a explorar diferentes áreas dentro del mundo de la informática, desde el soporte técnico hasta el desarrollo web.",
     "location": {
       "address": "",
       "postalCode": "43205",
@@ -30,22 +30,22 @@
   "work": [
     {
       "name": "Granota.net",
-      "position": "Desenvolupador Web en Pràctiques",
+      "position": "Desarrollador Web en Prácticas",
       "url": "https://granota.net",
       "startDate": "2023-01-01",
       "endDate": null,
-      "summary": "Durant el meu temps a Granota he estat involucrat en el desenvolupament d'un projecte de gestió de clients, on he aplicat bones pràctiques i tècniques d'organització. El meu enfocament se centra a proporcionar una experiència agradable i intuïtiva per a lusuari final",
+      "summary": "Durante mi tiempo en Granota, he estado involucrado en el desarrollo de un proyecto de gestión de clientes, donde he aplicado buenas prácticas y técnicas de organización. Mi enfoque se centra en proporcionar una experiencia agradable e intuitiva para el usuario final.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Dynamic.cat Pontsoft",
-      "position": "Tècnic informàtic en Pràctiques",
+      "position": "Técnico informático en Prácticas",
       "url": "https://www.pontsoft.cat/",
       "startDate": "2020-04-01",
       "endDate": "2020-07-01",
-      "summary": "Vaig millorar la meva capacitat per treballar el meu enfocament proactiu per identificar i solucionar problemes de maquinari i programari, configurant estacions de treball i garantint la seguretat. També m´ha permès construir atendre clients i garantir una experiència positiva",
+      "summary": "Mejoré mi capacidad para trabajar mi enfoque proactivo para identificar y solucionar problemas de hardware y software, configurando estaciones de trabajo y garantizando la seguridad. También me ha permitido construir atender clientes y garantizar una experiencia positiva",
       "highlights": [
         "Started the company"
       ]
@@ -53,18 +53,18 @@
   ],
   "language": [
     {
-      "name": "Espanyol",
-      "level": "Nadiu",
+      "name": "Español",
+      "level": "Nativo",
       "certificate": ""
     },
     {
-      "name": "Català",
-      "level": "Avançat",
+      "name": "Catalán",
+      "level": "Avanzado",
       "certificate": ""
     },
     {
-      "name": "Anglès",
-      "level": "Intermig",
+      "name": "Inglés",
+      "level": "Intermedio",
       "certificate": ""
     }
   ],
@@ -83,9 +83,9 @@
   ],
   "education": [
     {
-      "institution": "Institut Baix Camp",
+      "institution": "Instituto Baix Camp",
       "url": "https://www.insbaixcamp.org/",
-      "area": "Cicle Formatiu de Grau Superior DAW",
+      "area": "Ciclo Formativo de Grado Superior DAW",
       "studyType": "Bachelor",
       "startDate": "2022-01-01",
       "endDate": null,
@@ -95,9 +95,9 @@
       ]
     },
     {
-      "institution": "Institut Baix Camp",
+      "institution": "Instituto Baix Camp",
       "url": "https://www.insbaixcamp.org/",
-      "area": "Cicle Formatiu de Grau Mitjà SMX",
+      "area": "Ciclo Formativo de Grado Medio SMX",
       "studyType": "Bachelor",
       "startDate": "2020-01-01",
       "endDate": "2022-01-01",

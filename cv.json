@@ -30,10 +30,10 @@
   "work": [
     {
       "name": "Granota.net",
-      "position": "Desarrollador Web en Prácticas",
+      "position": "Desarrollador Web en Prácticas (378h)",
       "url": "https://granota.net",
       "startDate": "2023-01-01",
-      "endDate": null,
+      "endDate": "2024-01-01",
       "summary": "Durante mi tiempo en Granota, he estado involucrado en el desarrollo de un proyecto de gestión de clientes, donde he aplicado buenas prácticas y técnicas de organización. Mi enfoque se centra en proporcionar una experiencia agradable e intuitiva para el usuario final.",
       "highlights": [
         "Started the company"
@@ -41,7 +41,7 @@
     },
     {
       "name": "Dynamic.cat Pontsoft",
-      "position": "Técnico informático en Prácticas",
+      "position": "Técnico informático en Prácticas (378h)",
       "url": "https://www.pontsoft.cat/",
       "startDate": "2020-04-01",
       "endDate": "2020-07-01",
@@ -83,12 +83,24 @@
   ],
   "education": [
     {
+      "institution": "Fundación Esplai ICT",
+      "url": "https://fundacionesplai.org/",
+      "area": "Bootcamp Java SpringBoot & Angular",
+      "studyType": "Bachelor",
+      "startDate": "2024-01-01",
+      "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
       "institution": "Instituto Baix Camp",
       "url": "https://www.insbaixcamp.org/",
       "area": "Ciclo Formativo de Grado Superior DAW",
       "studyType": "Bachelor",
       "startDate": "2022-01-01",
-      "endDate": null,
+      "endDate": "2024-01-01",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
@@ -164,6 +176,24 @@
     },
     {
       "name": "Bootstrap",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Php",
       "level": "Master",
       "keywords": [
         "Desarrollo Web",
@@ -256,7 +286,17 @@
         "Backend",
         "Fullstack"
       ]
+    },
+    {
+      "name": "Docker",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
     }
+    
   ],
   "languages": [
     {

@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Rafel Dalmau Chacó",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "label": "Full Stack Developer",
     "image": "/me.webp",
-    "email": "cnievaslozano@gmail.com",
-    "phone": "+34 675783436",
-    "url": "https://cnievaslozano.netlify.app/",
+    "email": "rdalmau@gmail.com",
+    "phone": "+34 608732371",
+    "url": "https://rdalmau.netlify.app/",
     "summary": "Actualmente formándome en desarrollo Web. Soy un gran apasionado de la tecnología, mi curiosidad me hace",
     "location": {
       "address": "",
@@ -22,8 +22,8 @@
       },
       {
         "network": "GitHub",
-        "username": "cnievaslozano",
-        "url": "https://github.com/cnievaslozano"
+        "username": "rdalmau23",
+        "url": "https://github.com/rdalmau23"
       }
     ]
   },
@@ -59,12 +59,12 @@
     },
     {
       "name": "Catalán",
-      "level": "Avanzado",
+      "level": "Nativo",
       "certificate": ""
     },
     {
       "name": "Inglés",
-      "level": "Intermedio",
+      "level": "Avanzado",
       "certificate": ""
     }
   ],
@@ -83,11 +83,11 @@
   ],
   "education": [
     {
-      "institution": "Instituto Baix Camp",
+      "institution": "Instituto TIC",
       "url": "https://www.insbaixcamp.org/",
-      "area": "Ciclo Formativo de Grado Superior DAW",
+      "area": "Ciclo Formativo de Grado Superior DAW perfil Bioinformática.",
       "studyType": "Bachelor",
-      "startDate": "2022-01-01",
+      "startDate": "2023-01-01",
       "endDate": null,
       "score": "4.0",
       "courses": [
@@ -95,9 +95,9 @@
       ]
     },
     {
-      "institution": "Instituto Baix Camp",
+      "institution": "Instituto Ronda",
       "url": "https://www.insbaixcamp.org/",
-      "area": "Ciclo Formativo de Grado Medio SMX",
+      "area": "Ciclo Formativo de Grado Superior MEC",
       "studyType": "Bachelor",
       "startDate": "2020-01-01",
       "endDate": "2022-01-01",
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "institution": "Instituto Roseta Mauri",
+      "institution": "Escola Puigcerver",
       "url": "http://www.insrosetamauri.org",
       "area": "Educación Superio Obligatorio",
       "studyType": "Bachelor",
@@ -179,24 +179,6 @@
         "Frontend",
         "Backend",
         "Fullstack"
-      ]
-    },
-    {
-      "name": "Laravel",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "Symfony",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Diseño Responsive"
       ]
     },
     {
